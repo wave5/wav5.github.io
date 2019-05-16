@@ -2,8 +2,8 @@
 # in the templates available like {{ site.myvariable }}.
 title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
 email: your-email@domain.com
-brand: 성진 보경
-headline: 2019 03 01 PM 02:40 , 상록아트홀 L층 그랜드볼룸홀
+brand:
+headline: 2019
 description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -17,9 +17,8 @@ markdown: kramdown
 snapwidget: 247552
 
 # Contacts
-email: jsj_tjsjt@naver.com
-phone: 02-560-2222
+email: 
+phone:
 
 # Tracking
 googleAnalitycsID: UA-83933844-1
-
